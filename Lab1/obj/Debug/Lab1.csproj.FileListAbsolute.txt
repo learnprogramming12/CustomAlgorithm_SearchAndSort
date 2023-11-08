@@ -1,0 +1,8 @@
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\GDinComputing\Seme_1\StructureAndAlgorithm\assignment\Lab1\Lab1\obj\Debug\Lab1.pdb
